@@ -1,20 +1,21 @@
 ---
+
 name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: ' OO 기능 요청'
 labels: ''
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## 기능 요청사항
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+ex) 로그인 기능이 필요해요.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## 요청 세부사항
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+ex) Jwt 를 활용해서 로그인 기능을 만들어주세요.
+
+## 레퍼런스
+
+ex) 관련 사진 및 링크 첨부
