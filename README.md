@@ -7,3 +7,5 @@
 ---
 
 [Blog : 깃허브 저장소에서 이슈 템플릿, PR 템플릿 적용하기 (feat. .github 폴더)](https://kukim.tistory.com/117)
+[Create a pull request template for your repository (Github)](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository)
+[Configuring issue templates for your repository(Github)](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
